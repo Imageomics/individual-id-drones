@@ -1,8 +1,24 @@
-cff-version: 1.2.0
-title: individual-id-drones
-message: "If you use this repository, please cite our CV4Animals workshop paper."
+abstract: "Pose-guided autonomous drone navigation and experiment utilities for zebra individual identification."
 authors:
   - family-names: Sun
     given-names: Claire
-repository-code: https://github.com/Imageomics/individual-id-drones
+cff-version: 1.2.0
+date-released: "2026-05-21"
+identifiers:
+  - description: "The GitHub release URL of tag v1.0."
+    type: url
+    value: "https://github.com/Imageomics/individual-id-drones/releases/tag/v1.0"
+  - description: "The GitHub URL of the tagged commit."
+    type: url
+    value: "https://github.com/Imageomics/individual-id-drones"
+keywords:
+  - imageomics
+  - computer-vision
+  - drone-navigation
+  - zebra-identification
 license: MIT
+message: "If you find this software helpful in your research, please cite both the software and our paper."
+repository-code: "https://github.com/Imageomics/individual-id-drones"
+title: "individual-id-drones"
+version: 1.0
+type: software
