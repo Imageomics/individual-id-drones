@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: individual-id-drones
+message: "If you use this repository, please cite our CV4Animals workshop paper."
+authors:
+  - family-names: Sun
+    given-names: Claire
+repository-code: https://github.com/Imageomics/individual-id-drones
+license: MIT
