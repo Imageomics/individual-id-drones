@@ -5,12 +5,12 @@ authors:
 cff-version: 1.2.0
 date-released: "2026-05-21"
 identifiers:
-  - description: "The GitHub release URL of tag v1.0."
+  - description: "The GitHub release URL of tag v1.0.0."
     type: url
-    value: "https://github.com/Imageomics/individual-id-drones/releases/tag/v1.0"
-  - description: "The GitHub URL of the tagged commit."
+    value: "https://github.com/Imageomics/individual-id-drones/releases/tag/v1.0.0"
+  - description: "The GitHub URL of the commit tagged with v1.0.0."
     type: url
-    value: "https://github.com/Imageomics/individual-id-drones"
+    value: "https://github.com/Imageomics/individual-id-drones/tree/<commit-hash>"
 keywords:
   - imageomics
   - computer-vision
@@ -20,5 +20,5 @@ license: MIT
 message: "If you find this software helpful in your research, please cite both the software and our paper."
 repository-code: "https://github.com/Imageomics/individual-id-drones"
 title: "individual-id-drones"
-version: 1.0
+version: 1.0.0
 type: software
