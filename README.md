@@ -52,9 +52,6 @@ https://huggingface.co/imageomics/mmla-dino-pose
 Hugging Face dataset:
 https://huggingface.co/datasets/imageomics/mmla-pose
 
-GitHub repository:
-https://github.com/Imageomics/individual-id-drones
-
 ---
 
 ## Example Usage
